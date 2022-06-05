@@ -578,7 +578,7 @@ ul.responsibilities li::before {
 
 
 .project-about .project-left img {
-    border-radius: 5px;
+    border:2px solid #64ffda;
 }
 
 .project-about .project-right {
@@ -669,7 +669,7 @@ ul.responsibilities li::before {
 
 
 .project-about .project-right-even img {
-    border-radius: 5px;
+   border:2px solid #64ffda;
 }
 
 .project-about .project-left-even {
@@ -820,6 +820,7 @@ ul.responsibilities li::before {
 
     .project-about .project-left img {
         margin: 0 0 20px;
+        
     }
 }
 
