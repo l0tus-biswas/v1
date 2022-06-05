@@ -260,7 +260,7 @@ display: none;
     content: " ";
     height: 1px;
     position: absolute;
-    width: 9.5rem;
+    width: 2.5rem;
     margin: 20px;
 }
 
@@ -440,6 +440,112 @@ ul.skills-list li::before {
     .my-image {
 
         margin: 10px 0 0 -45%;
+    }
+}
+
+
+/* Experience */
+
+.experience {
+   width: 65%;
+   margin: 0 auto;
+}
+
+.experience-one {
+    margin: 0 0 40px 0;
+}
+.experience-one p {
+    font-size: 16px;
+    font-family: 'Space Mono', monospace;
+    line-height: 1.8;
+    text-align: justify;
+}
+
+.experience-one h3{
+    font-size: 18px;    
+    color: #ccd6f6;
+}
+
+.experience-one h3 .company{
+    color: #64ffda;
+    font-weight: 500;
+}
+
+.experience-one h3 a{
+    color: #64ffda;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+
+.experience-one ul.responsibilities {
+     padding: 0px;
+    margin: 20px 0px 0px;
+    overflow: hidden;
+    list-style: none;
+    position: relative;
+}
+
+ul.responsibilities li {
+    position: relative;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    font-family: 'Space Mono', monospace;
+  
+    font-size: 16px;
+    line-height: 1.8;
+    text-align: justify;
+}
+
+ul.responsibilities li::before {
+    content: "▹";
+    position: absolute;
+    left: 0px;
+    color: #64ffda;
+
+}
+
+
+@media screen and (max-width:1024px) {
+    .experience {
+        width: 80%;
+    }
+
+    .content-type {
+        width: 80%;
+    }
+
+
+
+}
+
+
+@media screen and (max-width:768px) {
+    .experience {
+        display: block;
+        width: 90%;
+    }
+
+    .content-type {
+        width: 90%;
+    }
+
+    #hr-line {
+        width: 100px;
+
+    }
+
+}
+
+@media screen and (max-width:480px) {
+    
+
+    .experience {
+        width: 100%;
+    }
+
+    .content-type {
+        width: 100%;
     }
 }
 
