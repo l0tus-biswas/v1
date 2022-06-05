@@ -1,6 +1,3 @@
 
-<p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="https://lotusbiswas.netlify.app/assets/image/personal-web.png" alt="" align="center">
-
-  # lotusbiswas.netlify.app - v1
-</p>
+<h3 style="text-align:center"> lotusbiswas.netlify.app - v1</h3>
+<img src="https://lotusbiswas.netlify.app/assets/image/personal-web.png">
