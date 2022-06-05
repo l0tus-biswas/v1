@@ -9,7 +9,7 @@ body{
     animation: animStar 50s linear infinite;
   }
   #stars:after {
-    content: "&#9733 ";
+    content: " ";
     position: absolute;
     top: 2000px;
     width: 1px;
@@ -26,7 +26,7 @@ body{
     animation: animStar 100s linear infinite;
   }
   #stars2:after {
-    content: "&#9733 ";
+    content: " ";
     position: absolute;
     top: 2000px;
     width: 2px;
