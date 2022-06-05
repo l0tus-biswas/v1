@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+header{
+    font-family: 'Space Mono', monospace;
+}
+
+i{
+    margin-right: 10px;
+}
+
+.navbar-custom {
+    background: #0a192f;
+}
+
+.link-text{
+    color: #ccd6f6;
+}
+ 
+ul li{
+    padding-right: 10px;
+}
+
+ul li a:hover{
+    color: #64ffda;
+}
+
+#number-nav{
+    color: #64ffda;
+    padding-right: 5px;
+}
+
+.resume-button .btn-outline-custom{
+    color: #64ffda;
+    border-color: #64ffda;
+}
+.resume-button .btn-outline-custom:hover{
+   background: #64ffdb34;
+}
+
+@media screen and (max-width: 991px) {
+  .logo  img{
+        width: 100%;
+    }
+  }
