@@ -91,6 +91,7 @@ li,a {
 
 .quote-start-icon {
     position: relative;
+    z-index: 1;
 }
 
 .quote-start-icon p:first-child::before {
@@ -102,7 +103,7 @@ li,a {
     top: -0.6em;
     left: -0.1em;
     opacity: 0.5;
-    
+    z-index: -1;
 }
 /* Front intro */
 .front-intro h1{
@@ -145,7 +146,7 @@ img .social-icons{
   
 }
 
-.social-icons i {
+.social-icons a {
     position: relative;
     width: 35px;
     height: 35px;
@@ -160,7 +161,7 @@ img .social-icons{
     cursor: pointer;
 }
 
-.social-icons i:hover{
+.social-icons a:hover{
     background: #ff9301;
     transition: all .35s ease;
     -webkit-transform: scale(1);
@@ -170,14 +171,14 @@ img .social-icons{
 
 
 
-.social-icons i:nth-child(1){
+.social-icons a:nth-child(1){
     top: -32px;
     left: -18px;
 }
-.social-icons i:nth-child(2){
+.social-icons a:nth-child(2){
     top: -20px;
 }
-.social-icons i:nth-child(3){
+.social-icons a:nth-child(3){
     top: -32px;
     left: 18px;
 }
