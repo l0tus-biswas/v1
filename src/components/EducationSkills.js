@@ -48,7 +48,7 @@ function EducationSkills() {
                 </div>
                 <div className="col-md-10 col-10 my-auto">
                     <div>
-                        <p>HTML 5</p>
+                        <p>Javascript</p>
                         <div className="progress">
                             <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning"
                                 role="progressbar" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100"
@@ -66,7 +66,7 @@ function EducationSkills() {
                 </div>
                 <div className="col-md-10 col-10 my-auto">
                     <div>
-                        <p>CSS</p>
+                        <p>React JS</p>
                         <div className="progress">
                             <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning"
                                 role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"
@@ -84,7 +84,7 @@ function EducationSkills() {
                 </div>
                 <div className="col-md-10 col-10 my-auto">
                     <div>
-                        <p>Bootstrap</p>
+                        <p>NodeJS</p>
                         <div className="progress">
                             <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning"
                                 role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100"
@@ -102,7 +102,7 @@ function EducationSkills() {
                 </div>
                 <div className="col-md-10 col-10 my-auto">
                     <div>
-                        <p>Javascript</p>
+                        <p>MongoDB</p>
                         <div className="progress">
                             <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning"
                                 role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"

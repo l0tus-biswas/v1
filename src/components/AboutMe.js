@@ -26,17 +26,9 @@ function AboutMe(){
 
                 </div>
                 <div className="col-md-6 col-12 my-auto quote-start-icon">
-                    <p className="mb-3">I'm a Freelancer Front-end Developer with over 3 years of experience. I'm from San
-                        Francisco. I code
-                        and create web elements for amazing people around the world. I like work with new people. New
-                        people
-                        new Experiences.</p>
+                    <p className="mb-3">Hii! My name is Lotus and I enjoy creating things that live on the internet.</p>
 
-                    <p className="mb-3"> I'm a Freelancer Front-end Developer with over 3 years of experience. I'm from San
-                        Francisco. I code
-                        and create web elements for amazing people around the world. I like work with new people. New
-                        people
-                        new Experiences.</p>
+                    <p className="mb-3"> Fast-forward to today, and I've had the privilege of working at a start-up, and a huge corporation. I am full stack developer who loves to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible.</p>
 
 
                    {/* <div className="row mt-4">
