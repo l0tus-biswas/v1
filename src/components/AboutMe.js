@@ -3,44 +3,44 @@ import React from "react";
 function AboutMe(){
     return(
         <>
-        <section class="bg-navyBlue text-white pt-5 about-me">
+        <section className="bg-navyBlue text-white pt-5 about-me">
         
-        <div class="container">
-            <div class="row ">
-                <div class="col-md-5 col-12 text-center my-auto img">
-                    <div class="img-in">
+        <div className="container">
+            <div className="row ">
+                <div className="col-md-5 col-12 text-center my-auto img">
+                    <div className="img-in">
                         <img src="https://nairo.ibthemespro.com/img/about/about-me.jpg"
-                            class="img-fluid rounded-circle border border-warning border border-4" width="280"
+                            className="img-fluid rounded-circle border border-warning border border-4" width="280"
                             height="280" alt="" />
-                        <div class="nav social-icons justify-content-center">
-                            <i class="fa fa-linkedin" aria-hidden="true"></i>
-                            <i class="fa fa-github" aria-hidden="true"></i>
+                        <div className="nav social-icons justify-content-center">
+                            <i className="fa fa-linkedin" aria-hidden="true"></i>
+                            <i className="fa fa-github" aria-hidden="true"></i>
 
-                            <i class="fa fa-envelope" aria-hidden="true"></i>
+                            <i className="fa fa-envelope" aria-hidden="true"></i>
                         </div>
                     </div>
-                    <div class="info ">
-                        <h4 class="fs-6 mt-4">Web Developer</h4>
-                        <h1 class="fw-bolder">Lotus Biswas</h1>
+                    <div className="info ">
+                        <h4 className="fs-6 mt-4">Web Developer</h4>
+                        <h1 className="fw-bolder">Lotus Biswas</h1>
                     </div>
 
                 </div>
-                <div class="col-md-6 col-12 my-auto quote-start-icon">
-                    <p class="mb-3">I'm a Freelancer Front-end Developer with over 3 years of experience. I'm from San
+                <div className="col-md-6 col-12 my-auto quote-start-icon">
+                    <p className="mb-3">I'm a Freelancer Front-end Developer with over 3 years of experience. I'm from San
                         Francisco. I code
                         and create web elements for amazing people around the world. I like work with new people. New
                         people
                         new Experiences.</p>
 
-                    <p class="mb-3"> I'm a Freelancer Front-end Developer with over 3 years of experience. I'm from San
+                    <p className="mb-3"> I'm a Freelancer Front-end Developer with over 3 years of experience. I'm from San
                         Francisco. I code
                         and create web elements for amazing people around the world. I like work with new people. New
                         people
                         new Experiences.</p>
 
 
-                   {/* <div class="row mt-4">
-                        <div class="col-md-6 inShort-details">
+                   {/* <div className="row mt-4">
+                        <div className="col-md-6 inShort-details">
                             <ul>
                                 <li><label>Name: </label><span>Nairobi Gadot</span></li>
                                 <li><label>Birthday: </label><span>4th April 1994</span></li>
@@ -48,7 +48,7 @@ function AboutMe(){
                                 <li><label>Address: </label><span>San Francisco</span></li>
                             </ul>
                         </div>
-                        <div class="col-md-6 inShort-details">
+                        <div className="col-md-6 inShort-details">
                             <ul>
                                 <li><label>Phone: </label><span>(+38) 469 2344 2364</span></li>
                                 <li><label>Email: </label><span>info@domainname.com</span></li>
