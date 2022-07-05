@@ -1,5 +1,4 @@
 import React from 'react'
-
 function Projects() {
     return (
         <>
@@ -14,8 +13,8 @@ function Projects() {
                     <div className="col-md-10 mx-auto " >
                         <div className="row mb-4 gx-2" >
                             <div className="col-md-5 mx-auto my-auto project-img ">
-                                <img src="https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-                                    className="img-fluid rounded-3" alt="" />
+                            <img src={process.env.PUBLIC_URL+"images/Appointly.png"}
+                                    className="img-fluid rounded-4" alt="" />
                             </div>
                             <div className="col-md-7 project-info bg-deepNavyBlue p-4">
                                 <p className="text-muted">Featured Project</p>
@@ -37,8 +36,8 @@ function Projects() {
                         </div>
                         <div className="row pt-4 gx-2">
                             <div className="col-md-5 mx-auto my-auto project-img order-lg-2">
-                                <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80"
-                                    className="img-fluid rounded-3" alt="" />
+                                <img src={process.env.PUBLIC_URL+"images/PortfolioWebiste.png"}
+                                    className="img-fluid rounded-4" alt="" />
                             </div>
                             <div className="col-md-7 project-info bg-deepNavyBlue p-4">
                                 <p className="text-muted">Featured Project</p>

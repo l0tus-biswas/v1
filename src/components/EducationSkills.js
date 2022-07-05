@@ -43,7 +43,7 @@ function EducationSkills() {
             <div className="row my-4">
                 <div className="col-md-2 col-2 my-auto mx-auto">
 
-                    <h2>92%</h2>
+                    <h2>72%</h2>
 
                 </div>
                 <div className="col-md-10 col-10 my-auto">
@@ -51,8 +51,8 @@ function EducationSkills() {
                         <p>Javascript</p>
                         <div className="progress">
                             <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning"
-                                role="progressbar" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100"
-                                style={{width: "92%"}}></div>
+                                role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"
+                                style={{width: "72%"}}></div>
                         </div>
                     </div>
 
@@ -61,7 +61,7 @@ function EducationSkills() {
             <div className="row my-4">
                 <div className="col-md-2 col-2 my-auto mx-auto">
 
-                    <h2>85%</h2>
+                    <h2>75%</h2>
 
                 </div>
                 <div className="col-md-10 col-10 my-auto">
@@ -69,8 +69,8 @@ function EducationSkills() {
                         <p>React JS</p>
                         <div className="progress">
                             <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning"
-                                role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"
-                                style={{width: "85%"}}></div>
+                                role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"
+                                style={{width: "75%"}}></div>
                         </div>
                     </div>
 
@@ -84,7 +84,7 @@ function EducationSkills() {
                 </div>
                 <div className="col-md-10 col-10 my-auto">
                     <div>
-                        <p>NodeJS</p>
+                        <p>SQL Server</p>
                         <div className="progress">
                             <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning"
                                 role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100"
@@ -97,7 +97,7 @@ function EducationSkills() {
             <div className="row my-4">
                 <div className="col-md-2 col-2 my-auto mx-auto">
 
-                    <h2>90%</h2>
+                    <h2>60%</h2>
 
                 </div>
                 <div className="col-md-10 col-10 my-auto">
@@ -105,8 +105,27 @@ function EducationSkills() {
                         <p>MongoDB</p>
                         <div className="progress">
                             <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning"
-                                role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"
-                                style={{width: "90%"}}></div>
+                                role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"
+                                style={{width: "60%"}}></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div className="row my-4">
+                <div className="col-md-2 col-2 my-auto mx-auto">
+
+                    <h2>80%</h2>
+
+                </div>
+                <div className="col-md-10 col-10 my-auto">
+                    <div>
+                        <p>Git</p>
+                        <div className="progress">
+                            <div className="progress-bar progress-bar-striped progress-bar-animated bg-warning"
+                                role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"
+                                style={{width: "80%"}}></div>
                         </div>
                     </div>
 
