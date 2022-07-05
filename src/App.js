@@ -1,10 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import AboutMe from './components/AboutMe';
+import Experience from './components/Experience';
+import FrontIntro from './components/FrontIntro';
 
 function App() {
   return (
     <>
-    Code Clean Up
+      <FrontIntro />    
+      <AboutMe />
+      <Experience />
     </>
   );
 }
