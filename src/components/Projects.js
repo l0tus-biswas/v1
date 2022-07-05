@@ -30,8 +30,8 @@ function Projects() {
                                 </div>
 
                                 <div className="d-flex flex-row bd-highlight mt-3">
-                                    <div className="p-2 bd-highlight"> <i className="fa fa-github" aria-hidden="true"></i></div>
-                                    <div className="p-2 bd-highlight"><i className="fa fa-link" aria-hidden="true"></i></div>
+                                    <div className="p-2 bd-highlight"><a href='https://github.com/dev-lotus/Appointly.com' target={"blank"}><i className="fa fa-github" aria-hidden="true"></i></a></div>
+                                    <div className="p-2 bd-highlight"><a href='https://appointly.netlify.app/' target={"blank"}><i className="fa fa-link" aria-hidden="true"></i> </a></div>
                                 </div>
                             </div>
                         </div>
@@ -42,18 +42,18 @@ function Projects() {
                             </div>
                             <div className="col-md-7 project-info bg-deepNavyBlue p-4">
                                 <p className="text-muted">Featured Project</p>
-                                <h2 className="fs-5 fw-bold">Personal Website V1</h2>
-                                <p>First iteration of my personal website. Designed and developed with a conscious effort to
-                                    avoid using any superfluous frameworks like Bootstrap.</p>
+                                <h2 className="fs-5 fw-bold">Portfolio Website V1</h2>
+                                <p>First iteration of my portfolio website. Learned a bit of ReactJS & as well as responsive design using Bootstrap and so created this. Since then, i think my web development and design skills have improved immensely.</p>
                                 <div className="d-flex flex-row bd-highlight">
                                     <div className="me-2 bd-highlight badge rounded-pill bg-warning">React JS </div>
                                     <div className="me-2 bd-highlight badge rounded-pill bg-warning">Bootstrap 5</div>
+                                    <div className="me-2 bd-highlight badge rounded-pill bg-warning">CSS</div>
                                 </div>
 
                                 <div className="d-flex flex-row bd-highlight mt-3">
-                                    <div className="p-2 bd-highlight"><a href=""><i className="fa fa-github" aria-hidden="true"></i></a>
+                                    <div className="p-2 bd-highlight"><a href="https://github.com/dev-lotus/v1" target={"blank"}><i className="fa fa-github" aria-hidden="true"></i></a>
                                     </div>
-                                    <div className="p-2 bd-highlight"><a href=""><i className="fa fa-link" aria-hidden="true"></i></a>
+                                    <div className="p-2 bd-highlight"><a href="https://lotusbiswas.netlify.app/" target={"blank"}><i className="fa fa-link" aria-hidden="true"></i></a>
                                     </div>
                                 </div>
                             </div>

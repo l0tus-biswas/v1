@@ -16,7 +16,7 @@ function Experience() {
                                 <div className="col-md-3 ">
                                     <p className="fs-5 fw-bold">Operations Executive</p>
                                     <p className="fst-italic fw-lighter">Infosys | Remote</p>
-                                    <p className="text-muted">Feb 2021 - Present</p>
+                                    <p className="text-muted">Nov 2021 - Present</p>
                                     <p className="badge bg-warning fw-bold">Full Time</p>
                                 </div>
                                 <div className="col-md-9 border-start  ">
@@ -44,12 +44,13 @@ function Experience() {
                                 <div className="col-md-9 border-start">
                                     <div className="ms-3">
                                         <p className="fs-5 fw-bold">InfoLead</p>
+                                        
                                         <ul>
                                             <li>Worked with Twilio and NodeJS to develop a entire automation connecting WhatsApp with Podio CRM which increased the customer service
                                                 by 90% and improved the efficiency by over 95%.</li>
                                             <li>Collabrating and developed a KPI Tracker product for REI Proverty Invest which increased the analytical efficiency of the Podio user by over 80%.
                                             </li>
-                                            <li>Utilized ReactJS, Responsive Web Design, RESTful API to develop 7+ original business websites encompassing design, coding, testing and maintenance.
+                                            <li>Utilized ReactJS, Responsive Web Design and RESTful API to develop 7+ original business websites encompassing design, coding, testing and maintenance.
                                             </li>
                                         </ul>
                                     </div>
