@@ -1,5 +1,6 @@
 import './App.css';
 import AboutMe from './components/AboutMe';
+import Contact from './components/Contact';
 import EducationSkills from './components/EducationSkills';
 import Experience from './components/Experience';
 import FrontIntro from './components/FrontIntro';
@@ -13,6 +14,7 @@ function App() {
       <Experience />
       <EducationSkills />
       <Projects />
+      <Contact />
     </>
   );
 }
