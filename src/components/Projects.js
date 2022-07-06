@@ -11,7 +11,7 @@ function Projects() {
                         </div>
                     </div>
                     <div className="col-md-10 mx-auto " >
-                        <div className="row mb-4 gx-2" >
+                        <div className="row mb-4 gx-2 gx-lg-5" >
                             <div className="col-md-5 mx-auto my-auto project-img ">
                             <img src={process.env.PUBLIC_URL+"images/Appointly.png"}
                                     className="img-fluid rounded-4" alt="" />
@@ -34,7 +34,7 @@ function Projects() {
                                 </div>
                             </div>
                         </div>
-                        <div className="row pt-4 gx-2">
+                        <div className="row pt-4 gx-2 gx-lg-5">
                             <div className="col-md-5 mx-auto my-auto project-img order-lg-2">
                                 <img src={process.env.PUBLIC_URL+"images/PortfolioWebiste.png"}
                                     className="img-fluid rounded-4" alt="" />

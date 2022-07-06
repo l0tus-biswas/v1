@@ -35,7 +35,7 @@ li,a {
     background: #0b0b13;
 }
 
-.bg-warning, .btn-warning , .border-warning, .btn-outline-warning  {
+.bg-warning, .btn-warning , .btn-outline-warning  {
     background: #ff9301 !important;
 }
 
@@ -239,7 +239,10 @@ img .inShort-details ul {
 }
 
 /* Project */
-
+.project-info
+{
+    box-shadow: 17px 17px 0px -13px #f89409e1;
+}
 .project-info p {
     text-align: justify;
 }
