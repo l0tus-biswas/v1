@@ -10,7 +10,7 @@ function Experience() {
                             <h1 className="fw-bolder">Experience.</h1>
                         </div>
                     </div>
-                    <div className="row mb-4">
+                    {/* <div className="row mb-4">
                         <div className="col-md-10 mx-auto" >
                             <div className="row gx-2 bg-navyBlue text-white p-4 p-md-5 rounded-3  experience ">
                                 <div className="col-md-3 ">
@@ -23,13 +23,14 @@ function Experience() {
                                     <div className="ms-3">
                                          <ul>
                                             <li>Got trained in Microsoft Technologies (C#, ASP.NET Web API, EF Core, SQL Server and Web Technologies such as HTML5, CSS3, JavaScript, TypeScript, Angular 7)</li>
+                                        
                                         </ul>
                                     </div>
 
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     <div className="row">
                         <div className="col-md-10 mx-auto">
                             <div className="row gx-2 bg-navyBlue text-white p-4 p-md-5 rounded-3 experience">
