@@ -21,10 +21,8 @@ function Experience() {
                                 </div>
                                 <div className="col-md-9 border-start  ">
                                     <div className="ms-3">
-                                        <p className="fs-5 fw-bold">Infosys</p>
-                                        <ul>
+                                         <ul>
                                             <li>Got trained in Microsoft Technologies (C#, ASP.NET Web API, EF Core, SQL Server and Web Technologies such as HTML5, CSS3, JavaScript, TypeScript, Angular 7)</li>
-
                                         </ul>
                                     </div>
 
@@ -42,13 +40,11 @@ function Experience() {
                                     <p className="badge bg-warning fw-bold">Freelancer</p>
                                 </div>
                                 <div className="col-md-9 border-start">
-                                    <div className="ms-3">
-                                        <p className="fs-5 fw-bold">InfoLead</p>
-                                        
+                                    <div className="ms-3">   
                                         <ul>
-                                            <li>Worked with Twilio and NodeJS to develop a entire automation connecting WhatsApp with Podio CRM which increased the customer service
+                                            <li>Worked with Twilio and NodeJS to develop a entire automation integrating WhatsApp with Podio which increased the customer service
                                                 by 90% and improved the efficiency by over 95%.</li>
-                                            <li>Collabrating and developed a KPI Tracker product for REI Proverty Invest which increased the analytical efficiency of the Podio user by over 80%.
+                                            <li>Collabrating and developed a KPI Tracker product an analytical dashboard using ReactJS, Chart.js and RESTful API which increased the analytical efficiency of the company's Podio client's by over 80%.
                                             </li>
                                             <li>Utilized ReactJS, Responsive Web Design and RESTful API to develop 7+ original business websites encompassing design, coding, testing and maintenance.
                                             </li>
