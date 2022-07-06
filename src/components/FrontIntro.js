@@ -4,8 +4,9 @@ function FrontIntro() {
   return (
     <div>
         <section className="bg-navyBlue text-white pt-5">
-        {/* <!-- <div id='stars'></div>
-        <div id='stars2'></div> --> */}
+         <div id='stars'></div>
+        <div id='stars2'></div> 
+       
         <div className="container">
             
             <div className="row vh-100 ">
