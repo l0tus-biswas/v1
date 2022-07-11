@@ -9,7 +9,7 @@ function AboutMe() {
                     <div className="row ">
                         <div className="col-md-5 col-12 text-center my-auto img">
                             <div className="img-in">
-                                <img src="https://avatars.githubusercontent.com/u/102558895?v=4"
+                                <img src="https://finalscore.es/wp-content/uploads/2021/03/997px-Cryptokitty.svg_.png"
                                     className="img-fluid rounded-circle border border-warning border border-4" width="280"
                                     height="280" alt="" />
                                 <div className="nav social-icons justify-content-center">
