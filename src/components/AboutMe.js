@@ -20,8 +20,8 @@ function AboutMe() {
                                 </div>
                             </div>
                             <div className="info ">
-                                <h4 className="fs-6 mt-4">Web Developer</h4>
-                                <h1 className="fw-bolder">Lotus Biswas</h1>
+                                {/* <h4 className="fs-6 mt-4">Web Developer</h4> */}
+                                <h1 className="fw-bolder">Web Developer</h1>
                             </div>
 
                         </div>
