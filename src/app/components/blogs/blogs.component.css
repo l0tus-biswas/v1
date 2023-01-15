@@ -1,9 +1,10 @@
-.project{
+.blogs{
     padding: 60px 0;
 }
-.project .card{
+
+.blogs .card{
     border: 0;
 }
-.project .card-body{
+.blogs .card-body{
     background-color: #e6989810;
 }

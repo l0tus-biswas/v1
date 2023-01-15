@@ -1,0 +1,10 @@
+.education{
+    padding: 60px 0;
+    color: rgba(255, 255, 255, 0.866);
+}
+.education .clr-light{
+    color: rgba(255, 255, 255, 0.473);
+}
+.education img{
+    background-color: #000;
+}

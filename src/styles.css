@@ -12,15 +12,17 @@
 .bg-black-clr{
     background: #0d1116;
 }
-.clr-light{
-    color: rgba(0, 0, 0, 0.564);
-}
+
 
 h2{
     color:#e07676;
-    font-size: 50px;
+    font-size: 50px !important;
     text-transform: uppercase;
 }
+h3{
+    font-size: 40px !important; 
+}
+
 p {
     text-align: justify;
     margin-bottom: 0 !important;

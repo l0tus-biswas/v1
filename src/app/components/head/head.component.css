@@ -1,15 +1,30 @@
-.overlay-text{
-    background: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.575)),url(https://github.githubassets.com/images/modules/site/home-campaign/hero-bg.webp) no-repeat center center fixed;
+.overlay-text {
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.575)), url(https://github.githubassets.com/images/modules/site/home-campaign/hero-bg.webp) no-repeat center center fixed;
     background-size: cover;
 }
 
-.head h1{
+.head h1 {
     font-size: 180px;
-    color:#e07676;
+    color: #e07676;
     text-transform: uppercase;
 }
+
 @media screen and (max-width: 480px) {
-    .head h1{
+    .head h1 {
         font-size: 50px;
     }
-  }
+}
+
+.social-icons ul{
+    list-style-type: none;
+}
+
+.social-icons li{
+    background-color: #fff;
+    padding: 10px;
+}
+
+.social-icons li:hover{
+    background-color: rgba(255, 255, 255, 0.948);
+}
+
