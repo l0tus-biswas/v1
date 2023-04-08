@@ -27,3 +27,6 @@ p {
     text-align: justify;
     margin-bottom: 0 !important;
 } 
+.small-text{
+    font-size: 16px;
+}
